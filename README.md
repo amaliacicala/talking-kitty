@@ -1,2 +1,9 @@
-# talking-kitty
-JavaScript Text to Speech using SpeechSynthesis Interface
+# Talking Kitty
+
+Talking cat coded using the `SpeechSynthesis` interface of the Web Speech API.
+
+---
+
+- `.html`
+- `.scss`
+- `.js`
