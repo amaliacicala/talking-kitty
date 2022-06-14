@@ -65,6 +65,7 @@ html {
   border-radius: 8px;
   background-color: white;
   border: none;
+  cursor: pointer;
 }
 .controls button:disabled {
   opacity: 0.3;
